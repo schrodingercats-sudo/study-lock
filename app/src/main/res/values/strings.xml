@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">StudyLock</string>
+    <string name="device_admin_description">Allows StudyLock to prevent app uninstallation during study sessions</string>
+    <string name="tagline">Study Smart. Stay Locked.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_slide1_title">Lock Your Distractions</string>
+    <string name="onboarding_slide1_subtitle">StudyLock blocks non-essential apps while you study. Only the tools you need stay accessible.</string>
+    <string name="onboarding_slide2_title">Study, Test, Unlock</string>
+    <string name="onboarding_slide2_subtitle">Complete your study session, pass a quick test, and earn your phone time back.</string>
+    <string name="onboarding_slide3_title">Climb the Hill</string>
+    <string name="onboarding_slide3_subtitle">Compete with friends, earn rewards, and track your growth. Every session takes you higher.</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_phone">Sign in with Phone</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <!-- Role Selection -->
+    <string name="im_a_student">I\'m a Student</string>
+    <string name="im_a_teacher">I\'m a Teacher</string>
+    <string name="select_role">Select Your Role</string>
+
+    <!-- Permissions -->
+    <string name="permission_overlay">Display Over Other Apps</string>
+    <string name="permission_overlay_description">Required to lock your screen</string>
+    <string name="permission_device_admin">Device Administrator</string>
+    <string name="permission_device_admin_description">Required to prevent bypass</string>
+    <string name="permission_notifications">Notifications</string>
+    <string name="permission_notifications_description">Required for reminders and quotes</string>
+    <string name="grant">Grant</string>
+    <string name="continue_text">Continue</string>
+
+    <!-- Home -->
+    <string name="good_morning">Good Morning, %s</string>
+    <string name="good_afternoon">Good Afternoon, %s</string>
+    <string name="good_evening">Good Evening, %s</string>
+    <string name="day_streak">🔥 %d Day Streak</string>
+    <string name="start_study_session">Start Study Session</string>
+    <string name="hours_studied">%.1fh Studied</string>
+    <string name="tests_passed">%d Tests Passed</string>
+    <string name="xp_earned">%d XP Earned</string>
+    <string name="upcoming_quizzes">Upcoming Quizzes</string>
+
+    <!-- Study Mode -->
+    <string name="select_subject">Select Subject</string>
+    <string name="select_topic">Select Topic</string>
+    <string name="timer_mode">Timer Mode</string>
+    <string name="classic_pomodoro">Classic Pomodoro (25/5)</string>
+    <string name="extended_pomodoro">Extended Pomodoro (50/10)</string>
+    <string name="custom_mode">Custom</string>
+    <string name="exam_mode">Exam Mode</string>
+    <string name="number_of_cycles">Number of Cycles</string>
+    <string name="start_session">Start Session</string>
+
+    <!-- Timer -->
+    <string name="focus_time">Focus Time</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="sounds">Sounds</string>
+    <string name="great_work_take_break">Great work! Take a break.</string>
+    <string name="next_session_in">Next session in %s</string>
+
+    <!-- Test Gate -->
+    <string name="test_gate">Test Gate</string>
+    <string name="time_to_prove_what_you_learned">Time to prove what you learned!</string>
+    <string name="question_count">%d questions</string>
+    <string name="time_limit">Time limit: %ds per question</string>
+    <string name="pass_threshold">Pass threshold: 80%%</string>
+    <string name="start_test">Start Test</string>
+    <string name="question_number">Question %d of %d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Test Results -->
+    <string name="you_passed">You Passed!</string>
+    <string name="you_failed">Not quite!</string>
+    <string name="correct">%d/%d correct</string>
+    <string name="xp_awarded">+%d XP</string>
+    <string name="phone_locked_for">Phone locked for %d more minutes</string>
+    <string name="unlock_phone">Unlock Phone</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="ill_try_again">I\'ll try again</string>
+
+    <!-- Lock Screen -->
+    <string name="study_mode_active">Study Mode Active</string>
+    <string name="remaining">%s remaining</string>
+    <string name="complete_your_session_to_unlock">Complete your session to unlock</string>
+    <string name="emergency_unlock">Emergency Unlock (Tap 5 times)</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="doubts">Doubts</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="profile">Profile</string>
+
+    <!-- Leaderboard -->
+    <string name="global">Global</string>
+    <string name="school">School</string>
+    <string name="subject">Subject</string>
+    <string name="friends">Friends</string>
+
+    <!-- Doubts -->
+    <string name="post_a_doubt">Post a Doubt</string>
+    <string name="ask_a_doubt">Ask a Doubt</string>
+    <string name="type_your_question">Type your question…</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="voice">Voice</string>
+    <string name="subject_tag">Subject</string>
+    <string name="topic_tag">Topic</string>
+    <string name="priority">Priority</string>
+    <string name="normal">Normal</string>
+    <string name="urgent">Urgent</string>
+    <string name="post_doubt">Post Doubt</string>
+    <string name="my_doubts">My Doubts</string>
+    <string name="community_feed">Community Feed</string>
+
+    <!-- Progress -->
+    <string name="progress">Progress</string>
+    <string name="study">Study</string>
+    <string name="tests">Tests</string>
+    <string name="screen_time">Screen Time</string>
+    <string name="rewards">Rewards</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="study_preferences">Study Preferences</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="notifications">Notifications</string>
+    <string name="appearance">Appearance</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="whitelisted_apps">Whitelisted Apps</string>
+    <string name="emergency_unlock_password">Emergency Unlock Password</string>
+    <string name="lock_strictness">Lock Strictness</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+
+    <!-- Gamification -->
+    <string name="level">Level</string>
+    <string name="xp">XP</string>
+    <string name="badges">Badges</string>
+    <string name="sticker_collection">Sticker Collection</string>
+    <string name="rewards_store">Rewards Store</string>
+</resources>
